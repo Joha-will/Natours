@@ -50,6 +50,17 @@
 
 ----------------------------------------------------------------
 
+## **Testing** 🧪
+
+For this project, I performed manual testing during the development stage. 
+
+### **Manual Testing**
+
+
+
+
+----------------------------------------------------------------
+
 ## **Deployment**
 
 
@@ -60,14 +71,21 @@
 
 **Code**
 
+These online resources were incredibly helpful for refreshing my knowledge of specific topics or syntax, and they were also very informative.
 
+- [Django documentation](https://docs.djangoproject.com/en/4.1/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [programiz](https://www.programiz.com/)
+- [PyPI](https://pypi.org/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- 
 
 **Content**
 
 
 
 ### Acknowledgments 
-
 
 
 
