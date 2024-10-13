@@ -2,6 +2,22 @@
 
 
 
+***What I learnt 📚***
+------------------------
+
+
+- Modern CSS techniques to create stunning designs and effects.
+- Advanced CSS animations with @keyframes, animation and transition.
+- How CSS works behind the scenes: the cascade, specificity, inheritance.
+- CSS architecture: component-based design, BEM, writing reusable code.
+- Flexbox layouts: build a huge real-world project with flexbox.
+- CSS Grid layouts: build a huge real-world project with CSS Grid.
+- How to use Sass in real-world projects: global variables, architecting CSS, managing media queries.
+- Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units.
+- Responsive images in HTML and CSS for faster pageloads.
+- SVG images and videos in HTML and CSS: build a background video effect.
+- The NPM ecosystem: development workflows and building processes.
+
 
 
 
@@ -15,10 +31,8 @@
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
     - This was used to style the HTML document.
 
-- [Bootstrap](https://getbootstrap.com/)
-    - This was use to implement help with the mobile first feature of the website.
-- [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
-    - This was the main tool used to build this project.
+- [SASS](https://sass-lang.com/)
+    - This was used to style the HTML document. Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. 
 
 - [Git](https://git-scm.com/)
     - This is a version control system which I used to handle my project throughout the development stages, to save and push my work from gitpod to github.
@@ -33,9 +47,6 @@
     - This was used for the interactivity, behaviors of the web.
 - [Ajax](https://developer.mozilla.org/en-US/docs/Glossary/AJAX)
     - Ajax can be used to create single-page apps, in which the entire web app consists of a single document, which uses Ajax to update its content as needed.
-
-- [PEP8 Python Validator](http://pep8online.com/)
-    - This was used to check the python code for any errors or warnings.
 
 - [Heroku](https://heroku.com/)
     - This was used to deploy this application.
@@ -73,11 +84,8 @@ For this project, I performed manual testing during the development stage.
 
 These online resources were incredibly helpful for refreshing my knowledge of specific topics or syntax, and they were also very informative.
 
-- [Django documentation](https://docs.djangoproject.com/en/4.1/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Freecodecamp](https://www.freecodecamp.org/)
-- [programiz](https://www.programiz.com/)
-- [PyPI](https://pypi.org/)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)
 - 
 
