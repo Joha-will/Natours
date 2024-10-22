@@ -2,8 +2,21 @@
 
 
 
-***What I learnt 📚***
+## **What I learnt 📚**
 ------------------------
+
+
+#### **Booking Section**
+
+<table><tr><td>
+
+- How to implement "solid-color gradients";
+- How the general adjacent sibling selectors work and why we need them;
+- How to use the ::input-placeholder pseudo-element;
+- How and when to use the :focus, :invalid, placeholder-shown and :checked pseudo classes;
+- Techniques to build custom radio buttons;
+
+</td></tr></table>
 
 
 - Modern CSS techniques to create stunning designs and effects.
