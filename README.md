@@ -18,6 +18,14 @@
 
 </td></tr></table>
 
+#### **Building the Footer**
+
+<table><tr><td>
+
+- How to design a simple website footer.
+
+</td></tr></table>
+
 
 - Modern CSS techniques to create stunning designs and effects.
 - Advanced CSS animations with @keyframes, animation and transition.
