@@ -26,6 +26,18 @@
 
 </td></tr></table>
 
+#### **Building the Navigation**
+
+<table><tr><td>
+
+- What the "checkbox hack" is and how it works;
+- How to create custom animation timing functions using cubic beziers curves;
+- How to animate "solid-color gradients";
+- How and why to use transform-origin;
+- How to create amazing effects;
+
+</td></tr></table>
+
 
 - Modern CSS techniques to create stunning designs and effects.
 - Advanced CSS animations with @keyframes, animation and transition.
