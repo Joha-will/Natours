@@ -38,6 +38,18 @@
 
 </td></tr></table>
 
+#### **Building a Pop Up with pure CSS**
+
+<table><tr><td>
+
+- How to build a nice Pop Up with only CSS;
+- How to use the :target pseudo-class;
+- How to create boxes with equal height using display: table-cell;
+- How to create CSS text columns;
+- How to automatically hyphenate words using hyphens;
+
+</td></tr></table>
+
 
 - Modern CSS techniques to create stunning designs and effects.
 - Advanced CSS animations with @keyframes, animation and transition.
