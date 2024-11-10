@@ -51,6 +51,19 @@
 </td></tr></table>
 
 
+
+## **Advance Responsive Design(Part 3)**
+
+#### **Using SaSS Mixins to write media queries**
+
+<table><tr><td>
+
+- How to use a powerful mixin to write media queries;
+- How to use the @content and @if Sass directives;
+
+</td></tr></table>
+
+
 - Modern CSS techniques to create stunning designs and effects.
 - Advanced CSS animations with @keyframes, animation and transition.
 - How CSS works behind the scenes: the cascade, specificity, inheritance.
