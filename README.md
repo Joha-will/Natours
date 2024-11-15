@@ -54,6 +54,30 @@
 
 ## **Advance Responsive Design(Part 3)**
 
+#### **Mobile-First vs Desktop-First and Breakpoints**
+
+<table><tr><td>
+
+Mobile-First Pros
+
+
+- 100% optimised for mobile experiences;
+- Reduces websites and apps to the absolute essentials;
+- Results in smaller, faster and more efficient products;
+- Priorities content over aesthetic design, which may be desirable.
+
+Mobile-First Cons 
+
+- The desktop version might feel over empty and simple;
+- More difficult and counter-intuitive to develop;
+- Less creative freedom, mkaing it more difficult to create distinctive products;
+- Clients are use to seeing the desktop version of the site as a prototype.
+
+
+![Screenshot 2024-11-15 at 22 36 37](https://github.com/user-attachments/assets/432d63ab-4048-4ec4-b992-c1ed79a5f8f7)
+
+</td></tr></table>
+
 #### **Using SaSS Mixins to write media queries**
 
 <table><tr><td>
