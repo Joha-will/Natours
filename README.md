@@ -84,6 +84,7 @@ Mobile-First Cons
 
 - How to use a powerful mixin to write media queries;
 - How to use the @content and @if Sass directives;
+- How to use Google Chrome DevTools for responsive design;
 
 </td></tr></table>
 
