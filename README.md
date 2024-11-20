@@ -107,7 +107,7 @@ Mobile-First Cons
 
 
 
-## **Technologies Used**
+## **Technologies Used 📦**
  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - This was used for the structure of the web page and it's content.
 
@@ -155,7 +155,7 @@ For this project, I performed manual testing during the development stage.
 
 ----------------------------------------------------------------
 
-## **Deployment**
+## **Deployment 🚀**
 
 
 
