@@ -3,7 +3,6 @@
 
 
 ## **What I learnt 📚**
-------------------------
 
 
 #### **Booking Section**
@@ -89,17 +88,35 @@ Mobile-First Cons
 </td></tr></table>
 
 
-- Modern CSS techniques to create stunning designs and effects.
-- Advanced CSS animations with @keyframes, animation and transition.
-- How CSS works behind the scenes: the cascade, specificity, inheritance.
-- CSS architecture: component-based design, BEM, writing reusable code.
-- Flexbox layouts: build a huge real-world project with flexbox.
-- CSS Grid layouts: build a huge real-world project with CSS Grid.
-- How to use Sass in real-world projects: global variables, architecting CSS, managing media queries.
-- Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units.
-- Responsive images in HTML and CSS for faster pageloads.
-- SVG images and videos in HTML and CSS: build a background video effect.
-- The NPM ecosystem: development workflows and building processes.
+#### **Responsive Images**
+
+<table><tr><td>
+
+##### **What are responsive images?**
+
+The goal of responsive images is to server the right image to the right screen size and device, in order to avoid downloading unnecessary large images on smaller screens.
+
+Responsive images is not only good for responsive design, but also good for web performance and help to promote maintainable and scalable code.
+
+##### **When to use responsive images?**
+
+Here some use cases:
+
+**Resolution-switching** - this is decreasing the image size on smaller screens with a smaller resolution.
+
+**Density-switching** - this is serving an image to a higher resolution screen and a smaller resolution for smaller screens.
+
+**Art-Direction** - this is serving a different image on smaller screens.
+
+
+##### **Responsive images in HTML - Art Direction and Density Switching**
+
+- How to use the srcset attribute on the <img> and <source> elements, together with density descriptors;
+- How and when to use the <picture> element for art direction;
+- How to write media queries in HTML;
+
+
+</td></tr></table>
 
 
 
