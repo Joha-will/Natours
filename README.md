@@ -5,6 +5,72 @@
 ## **What I learnt 📚**
 
 
+#### **Three Pillars of Writting Good HTML and CSS**
+
+<table><tr><td>
+
+**Responsive Design**
+
+- Fluid layouts;
+- Media queries;
+- Responsive images;
+- Correct units;
+- Desktop-first vs mobile-first
+
+
+</td></tr></table>
+
+
+
+
+#### **Building the Header(Part 1)**
+
+<table><tr><td>
+
+- The best way to perform a basic reset using the universal selector;
+- How to set project-wide font definitions;
+- How to clip parts of elements using clip-path;
+
+
+</td></tr></table>
+
+
+#### **Building the Header(Part 2)**
+
+<table><tr><td>
+
+- The easiest way to center anything with the transform, top and left properties;
+
+
+</td></tr></table>
+
+
+#### **Creating cool CSS animations**
+
+<table><tr><td>
+
+- How to create CSS animations using @keyframes and the animation property;
+
+
+</td></tr></table>
+
+
+
+#### **Building a Complex Animated Button**
+
+<table><tr><td>
+
+- What pseudo-elements and pseudo-classes are;
+- How and why to use the ::after pseudo-element;
+- How to create a creative hover animation effect using the transition property;
+
+
+</td></tr></table>
+
+
+
+
+
 #### **Booking Section**
 
 <table><tr><td>
@@ -57,7 +123,7 @@
 
 <table><tr><td>
 
-Mobile-First Pros
+**Mobile-First Pros**
 
 
 - 100% optimised for mobile experiences;
@@ -65,7 +131,7 @@ Mobile-First Pros
 - Results in smaller, faster and more efficient products;
 - Priorities content over aesthetic design, which may be desirable.
 
-Mobile-First Cons 
+**Mobile-First Cons** 
 
 - The desktop version might feel over empty and simple;
 - More difficult and counter-intuitive to develop;
@@ -114,16 +180,12 @@ Here some use cases:
 - How to use the srcset attribute on the <img> and <source> elements, together with density descriptors;
 - How and when to use the <picture> element for art direction;
 - How to write media queries in HTML;
-
+- How to allow the browser to decide the best image download, using the srcset attribute, width descriptors, and the sizes attribute of the <img> element.
 
 </td></tr></table>
 
 
-
-
-
-
-
+----------------------------------------------------------------
 ## **Technologies Used 📦**
  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - This was used for the structure of the web page and it's content.
