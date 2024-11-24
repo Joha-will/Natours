@@ -182,6 +182,12 @@ Here some use cases:
 - How to write media queries in HTML;
 - How to allow the browser to decide the best image download, using the srcset attribute, width descriptors, and the sizes attribute of the <img> element.
 
+##### **Responsive images in CSS**
+
+- How to implement responsive images in CSS;
+- How to use resolution media queries to target high-resolution screens with 2x;
+- How to combine multiple conditions in media queries;
+
 </td></tr></table>
 
 
