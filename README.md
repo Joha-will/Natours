@@ -191,6 +191,24 @@ Here some use cases:
 </td></tr></table>
 
 
+## **Testing** 🧪
+
+For this project, I performed manual testing during the development stage. 
+
+
+
+#### **Testing for Browser Support with @supports**
+
+<table><tr><td>
+
+- How to use @supports feature queries;
+- Implement graceful degradation on selected properties;
+- How to use backdrop filters;
+
+</td></tr></table>
+
+
+
 ----------------------------------------------------------------
 ## **Technologies Used 📦**
  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -229,16 +247,6 @@ Here some use cases:
 
 ----------------------------------------------------------------
 
-## **Testing** 🧪
-
-For this project, I performed manual testing during the development stage. 
-
-### **Manual Testing**
-
-
-
-
-----------------------------------------------------------------
 
 ## **Deployment 🚀**
 
