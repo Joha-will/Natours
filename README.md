@@ -208,6 +208,14 @@ For this project, I performed manual testing during the development stage.
 </td></tr></table>
 
 
+#### **Setting up build process with NPM scripts**
+
+<table><tr><td>
+
+
+</td></tr></table>
+
+
 
 ----------------------------------------------------------------
 ## **Technologies Used 📦**
