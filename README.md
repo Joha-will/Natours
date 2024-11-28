@@ -1,5 +1,6 @@
 # Natours-Practice-Project
 
+This is a website for a fictional company that offers tours in the nature, and that's where the name came from "Na-tours". This project was designed and built by Jonas Schmedtmann, a Web Developer, Designer, and Teacher for his Udemy course. So I enrolled myself in the course and code all with him to improve my CSS skills and learn some of the most modern CSS techniques.
 
 
 ## **What I learnt 📚**
